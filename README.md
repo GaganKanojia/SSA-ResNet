@@ -3,10 +3,10 @@
 The code is for the paper titled as "Exploring Temporal Differences in 3D Convolutional Neural Networks". It is written in Pytorch. The major part of the source code is taken form [here](https://github.com/kenshohara/3D-ResNets-PyTorch)
 
 ### Requirements
--Python (The code is tested with verison 3.5)
--[Pytorch](https://pytorch.org/) (The code is tested with verison 1.1.0)
--Numpy (The code is tested with verison 1.16.0)
--CUDA (The code is tested with verison 9.0)
+-Python (The code is tested with verison 3.5)<br />
+-[Pytorch](https://pytorch.org/) (The code is tested with verison 1.1.0)<br />
+-Numpy (The code is tested with verison 1.16.0)<br />
+-CUDA (The code is tested with verison 9.0)<br />
 
 For the preparation of the dataset, please refer to [this](https://github.com/kenshohara/3D-ResNets-PyTorch) GitHub repository.
 
