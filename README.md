@@ -16,6 +16,3 @@ python3 main.py --root_path /path_to/root/ --video_path /path_to/video_frames/ -
 To resume the code from an intermediate result use --resume_path results_SSAresnet18/file_name.pth
 
 The scripts are provided with the source code to train the other models. For more info, refer [here](https://github.com/kenshohara/3D-ResNets-PyTorch)
-
-
-# SSA-ResNet
